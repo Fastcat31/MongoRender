@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "CKs Express Mongo Test on Render",
   "main": "testmongo2.js",
-  "repository": "https://github.com/Fastcat31/MongoTest",
+  "repository": "https://github.com/Fastcat31/MongoRender",
   "author": "CK",
   "license": "MIT",
   "private": false,
